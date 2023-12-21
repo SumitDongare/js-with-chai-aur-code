@@ -29,7 +29,12 @@ const myFunction = function(){
     console.log("Hello World")
 }
 
-console.log(typeof anotherId )
+// console.log(typeof anotherId )
+
+// +++++++++++Stack and Heap memory+++++++++++
+
+// Primitive goes to Stack memory:- It transfer the value to the variable
+// Non Primitive goes to Heap memory:-It transfer the referance to the variable
 
 
 
